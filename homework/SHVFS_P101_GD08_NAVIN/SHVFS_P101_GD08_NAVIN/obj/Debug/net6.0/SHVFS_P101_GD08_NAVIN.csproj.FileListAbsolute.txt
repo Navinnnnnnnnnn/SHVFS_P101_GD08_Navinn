@@ -1,0 +1,15 @@
+D:\programing\SHVFS_P101_GD08_Navinn\homework\SHVFS_P101_GD08_NAVIN\SHVFS_P101_GD08_NAVIN\obj\Debug\net6.0\SHVFS_P101_GD08_NAVIN.csproj.AssemblyReference.cache
+D:\programing\SHVFS_P101_GD08_Navinn\homework\SHVFS_P101_GD08_NAVIN\SHVFS_P101_GD08_NAVIN\obj\Debug\net6.0\SHVFS_P101_GD08_NAVIN.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing\SHVFS_P101_GD08_Navinn\homework\SHVFS_P101_GD08_NAVIN\SHVFS_P101_GD08_NAVIN\obj\Debug\net6.0\SHVFS_P101_GD08_NAVIN.AssemblyInfoInputs.cache
+D:\programing\SHVFS_P101_GD08_Navinn\homework\SHVFS_P101_GD08_NAVIN\SHVFS_P101_GD08_NAVIN\obj\Debug\net6.0\SHVFS_P101_GD08_NAVIN.AssemblyInfo.cs
+D:\programing\SHVFS_P101_GD08_Navinn\homework\SHVFS_P101_GD08_NAVIN\SHVFS_P101_GD08_NAVIN\obj\Debug\net6.0\SHVFS_P101_GD08_NAVIN.csproj.CoreCompileInputs.cache
+D:\programing\SHVFS_P101_GD08_Navinn\homework\SHVFS_P101_GD08_NAVIN\SHVFS_P101_GD08_NAVIN\bin\Debug\net6.0\SHVFS_P101_GD08_NAVIN.exe
+D:\programing\SHVFS_P101_GD08_Navinn\homework\SHVFS_P101_GD08_NAVIN\SHVFS_P101_GD08_NAVIN\bin\Debug\net6.0\SHVFS_P101_GD08_NAVIN.deps.json
+D:\programing\SHVFS_P101_GD08_Navinn\homework\SHVFS_P101_GD08_NAVIN\SHVFS_P101_GD08_NAVIN\bin\Debug\net6.0\SHVFS_P101_GD08_NAVIN.runtimeconfig.json
+D:\programing\SHVFS_P101_GD08_Navinn\homework\SHVFS_P101_GD08_NAVIN\SHVFS_P101_GD08_NAVIN\bin\Debug\net6.0\SHVFS_P101_GD08_NAVIN.dll
+D:\programing\SHVFS_P101_GD08_Navinn\homework\SHVFS_P101_GD08_NAVIN\SHVFS_P101_GD08_NAVIN\bin\Debug\net6.0\SHVFS_P101_GD08_NAVIN.pdb
+D:\programing\SHVFS_P101_GD08_Navinn\homework\SHVFS_P101_GD08_NAVIN\SHVFS_P101_GD08_NAVIN\obj\Debug\net6.0\SHVFS_P101_GD08_NAVIN.dll
+D:\programing\SHVFS_P101_GD08_Navinn\homework\SHVFS_P101_GD08_NAVIN\SHVFS_P101_GD08_NAVIN\obj\Debug\net6.0\refint\SHVFS_P101_GD08_NAVIN.dll
+D:\programing\SHVFS_P101_GD08_Navinn\homework\SHVFS_P101_GD08_NAVIN\SHVFS_P101_GD08_NAVIN\obj\Debug\net6.0\SHVFS_P101_GD08_NAVIN.pdb
+D:\programing\SHVFS_P101_GD08_Navinn\homework\SHVFS_P101_GD08_NAVIN\SHVFS_P101_GD08_NAVIN\obj\Debug\net6.0\SHVFS_P101_GD08_NAVIN.genruntimeconfig.cache
+D:\programing\SHVFS_P101_GD08_Navinn\homework\SHVFS_P101_GD08_NAVIN\SHVFS_P101_GD08_NAVIN\obj\Debug\net6.0\ref\SHVFS_P101_GD08_NAVIN.dll
