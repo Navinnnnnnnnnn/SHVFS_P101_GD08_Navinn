@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\programing\\SHVFS_P101_GD08_Navinn\\CLASSES\\C04\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "D:\\programing\\SHVFS_P101_GD08_Navinn\\QUIZZES\\SHVFS_P101_GD08_Q2022-11-11_Navin\\SHVFS_P101_GD08_Q2022-11-11_Navin\\SHVFS_P101_GD08_Q2022-11-11_Navin.csproj": {}
   },
   "projects": {
-    "D:\\programing\\SHVFS_P101_GD08_Navinn\\CLASSES\\C04\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "D:\\programing\\SHVFS_P101_GD08_Navinn\\QUIZZES\\SHVFS_P101_GD08_Q2022-11-11_Navin\\SHVFS_P101_GD08_Q2022-11-11_Navin\\SHVFS_P101_GD08_Q2022-11-11_Navin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\programing\\SHVFS_P101_GD08_Navinn\\CLASSES\\C04\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-        "projectName": "ConsoleApp1",
-        "projectPath": "D:\\programing\\SHVFS_P101_GD08_Navinn\\CLASSES\\C04\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "D:\\programing\\SHVFS_P101_GD08_Navinn\\QUIZZES\\SHVFS_P101_GD08_Q2022-11-11_Navin\\SHVFS_P101_GD08_Q2022-11-11_Navin\\SHVFS_P101_GD08_Q2022-11-11_Navin.csproj",
+        "projectName": "SHVFS_P101_GD08_Q2022-11-11_Navin",
+        "projectPath": "D:\\programing\\SHVFS_P101_GD08_Navinn\\QUIZZES\\SHVFS_P101_GD08_Q2022-11-11_Navin\\SHVFS_P101_GD08_Q2022-11-11_Navin\\SHVFS_P101_GD08_Q2022-11-11_Navin.csproj",
         "packagesPath": "C:\\Users\\GD Student\\.nuget\\packages\\",
-        "outputPath": "D:\\programing\\SHVFS_P101_GD08_Navinn\\CLASSES\\C04\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "outputPath": "D:\\programing\\SHVFS_P101_GD08_Navinn\\QUIZZES\\SHVFS_P101_GD08_Q2022-11-11_Navin\\SHVFS_P101_GD08_Q2022-11-11_Navin\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GD Student\\AppData\\Roaming\\NuGet\\NuGet.Config",

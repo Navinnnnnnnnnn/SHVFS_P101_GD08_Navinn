@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GD Student\\Desktop\\12345\\Shvfs_P101_GD08_Navin\\QUIZZES\\SHVFS_P101_GD08_Q2022-11-10_Navin\\SHVFS_P101_GD08_Q2022-11-10_Navin\\SHVFS_P101_GD08_Q2022-11-10_Navin.csproj": {}
+    "D:\\programing\\SHVFS_P101_GD08_Navinn\\QUIZZES\\SHVFS_P101_GD08_Q2022-11-10_Navin\\SHVFS_P101_GD08_Q2022-11-10_Navin\\SHVFS_P101_GD08_Q2022-11-10_Navin.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GD Student\\Desktop\\12345\\Shvfs_P101_GD08_Navin\\QUIZZES\\SHVFS_P101_GD08_Q2022-11-10_Navin\\SHVFS_P101_GD08_Q2022-11-10_Navin\\SHVFS_P101_GD08_Q2022-11-10_Navin.csproj": {
+    "D:\\programing\\SHVFS_P101_GD08_Navinn\\QUIZZES\\SHVFS_P101_GD08_Q2022-11-10_Navin\\SHVFS_P101_GD08_Q2022-11-10_Navin\\SHVFS_P101_GD08_Q2022-11-10_Navin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GD Student\\Desktop\\12345\\Shvfs_P101_GD08_Navin\\QUIZZES\\SHVFS_P101_GD08_Q2022-11-10_Navin\\SHVFS_P101_GD08_Q2022-11-10_Navin\\SHVFS_P101_GD08_Q2022-11-10_Navin.csproj",
+        "projectUniqueName": "D:\\programing\\SHVFS_P101_GD08_Navinn\\QUIZZES\\SHVFS_P101_GD08_Q2022-11-10_Navin\\SHVFS_P101_GD08_Q2022-11-10_Navin\\SHVFS_P101_GD08_Q2022-11-10_Navin.csproj",
         "projectName": "SHVFS_P101_GD08_Q2022-11-10_Navin",
-        "projectPath": "C:\\Users\\GD Student\\Desktop\\12345\\Shvfs_P101_GD08_Navin\\QUIZZES\\SHVFS_P101_GD08_Q2022-11-10_Navin\\SHVFS_P101_GD08_Q2022-11-10_Navin\\SHVFS_P101_GD08_Q2022-11-10_Navin.csproj",
+        "projectPath": "D:\\programing\\SHVFS_P101_GD08_Navinn\\QUIZZES\\SHVFS_P101_GD08_Q2022-11-10_Navin\\SHVFS_P101_GD08_Q2022-11-10_Navin\\SHVFS_P101_GD08_Q2022-11-10_Navin.csproj",
         "packagesPath": "C:\\Users\\GD Student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GD Student\\Desktop\\12345\\Shvfs_P101_GD08_Navin\\QUIZZES\\SHVFS_P101_GD08_Q2022-11-10_Navin\\SHVFS_P101_GD08_Q2022-11-10_Navin\\obj\\",
+        "outputPath": "D:\\programing\\SHVFS_P101_GD08_Navinn\\QUIZZES\\SHVFS_P101_GD08_Q2022-11-10_Navin\\SHVFS_P101_GD08_Q2022-11-10_Navin\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GD Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
